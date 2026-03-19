@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-03-19T08:24:55Z",
+  "generated_at": "2026-03-19T08:28:04Z",
   "min_app_code_for_pack": 0,
   "manifest_mirrors": [
     "https://cdn.jsdelivr.net/gh/TimeJason/shiguang-yingshi@main/tvbox/beta/manifest.json",
@@ -28,7 +28,7 @@
         "mirrors": [
           "https://ghfast.top/https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-beta-v5.1.5-beta1/tvbox-mobile-arm64_v8a-modern-515-beta.apk"
         ],
-        "sha256": "f553638a649b94a300eeb93cf182f719f01d9f3615afc6df9021961de466cbbb"
+        "sha256": "cc07a44aa96d591b5f36096807101b0b4510780f8566c4641bf6ba0b3004e4ee"
       },
       {
         "mode": "leanback",
