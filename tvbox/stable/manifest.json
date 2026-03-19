@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "generated_at": "2026-03-19T08:00:00Z",
+  "min_app_code_for_pack": 0,
+  "manifest_mirrors": [
+    "https://cdn.jsdelivr.net/gh/TimeJason/shiguang-yingshi@main/tvbox/stable/manifest.json",
+    "https://ghfast.top/https://raw.githubusercontent.com/TimeJason/shiguang-yingshi/main/tvbox/stable/manifest.json"
+  ],
+  "data_pack": {
+    "version": "disabled",
+    "version_code": 0,
+    "title": "Data pack disabled",
+    "changelog": "Data pack disabled for GitHub APK distribution.",
+    "url": "",
+    "mirrors": [],
+    "sha256": ""
+  },
+  "apk": {
+    "version_name": "5.1.5-stabletest",
+    "version_code": 515,
+    "changelog": "Stable channel update test.",
+    "assets": [
+      {
+        "mode": "mobile",
+        "abi": "arm64_v8a",
+        "compat": "modern",
+        "url": "https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-mobile-arm64_v8a-modern-515.apk",
+        "mirrors": [
+          "https://ghfast.top/https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-mobile-arm64_v8a-modern-515.apk"
+        ],
+        "sha256": "388dbb2902b7988537eed2804650146996d1a54829c5d34405fdb1fa550aa057"
+      },
+      {
+        "mode": "leanback",
+        "abi": "arm64_v8a",
+        "compat": "modern",
+        "url": "https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-leanback-arm64_v8a-modern-515.apk",
+        "mirrors": [
+          "https://ghfast.top/https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-leanback-arm64_v8a-modern-515.apk"
+        ],
+        "sha256": "e1df83d562038628b405f67297a9b4e151fc75e7dc8ff0dfaad8edee970bbd4b"
+      },
+      {
+        "mode": "leanback",
+        "abi": "armeabi_v7a",
+        "compat": "modern",
+        "url": "https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-leanback-armeabi_v7a-modern-515.apk",
+        "mirrors": [
+          "https://ghfast.top/https://github.com/TimeJason/shiguang-yingshi/releases/download/tvbox-stable-v5.1.5-stabletest/tvbox-leanback-armeabi_v7a-modern-515.apk"
+        ],
+        "sha256": "ed916ee1e2812c628db76a734eb5c2514230694628d82f7a1b697de1890082fb"
+      }
+    ]
+  }
+}
